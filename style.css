@@ -39,8 +39,8 @@
 }
 
 .profile .profile-image {
-    width: 90%;
-    margin-left: 6%;
+    width: 100%;
+    /* margin-left: 6%; */
     border-radius: 100%;
 }
 
